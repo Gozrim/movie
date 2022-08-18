@@ -20,7 +20,7 @@ class Movie:
         return result
 
 
-print("models")
+
 
 
 #
